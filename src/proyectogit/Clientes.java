@@ -9,5 +9,9 @@ package proyectogit;
  * @author Ale Anchía
  */
 public class Clientes {
+
+    public Clientes() {
+        
+    }
     
 }
